@@ -14,6 +14,8 @@
 - ⚡ Fun fact: ...
 
 ![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)  
+
+💬 Most used language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11&layout=Demo&theme=tokyonight)
 
 <!--
