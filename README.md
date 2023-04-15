@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFF9"/></a>
+<a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFF9"/></a> <br>
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFF9"/></a>
 
 
@@ -12,13 +13,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11&layout=Demo&theme=tokyonight)
 
 <!--
 **jihyun11/jihyun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
+
 
 Here are some ideas to get you started:
 💬 Most used language
