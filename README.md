@@ -26,7 +26,8 @@
   	
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/깃허브아이디/github-readme-stats)<br><br>
-  ![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
+  [![Jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
+  
   
 </div>
 
@@ -35,6 +36,7 @@
 <!--
 **jihyun11/jihyun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11&layout=Demo&theme=tokyonight)
+![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
 
 
 Here are some ideas to get you started:
