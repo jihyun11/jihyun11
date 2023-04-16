@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 
 ### -ˋˏ ෆ⃛ SNS ෆ⃛ ˎˊ-
@@ -32,7 +32,7 @@
 
 ![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
   
-</div>
+<!-- </div> -->
 
 
 <!--
