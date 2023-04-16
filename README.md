@@ -1,4 +1,4 @@
-<!-- <div align="center"> -->
+<div align="center">
 
 
 ### -ˋˏ ෆ⃛ SNS ෆ⃛ ˎˊ-
@@ -19,6 +19,8 @@
 
 <br>
   
+</div>
+  
 - 🔭 I’m currently working on ... 여기 오시는분들 이거 아직 다 안꾸민겁니다
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
@@ -31,8 +33,7 @@
 
 
 ![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
-  
-<!-- </div> -->
+
 
 
 <!--
