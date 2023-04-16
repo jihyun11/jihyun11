@@ -23,6 +23,10 @@
   2. 💬 JAVA, Python 위주로 공부 중...
   3. 🔭 포켓몬고 좋아하시는 분들 연락 주세요...
   
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11&layout=compact"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true">
+
+  
   ![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
   
 </div>
