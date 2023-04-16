@@ -21,11 +21,11 @@
   
   1. 🌱 Backend Engineer를 꿈꾸는 중...
   2. 💬 JAVA, Python 위주로 공부 중...
-  3. 🔭 포켓몬고 좋아하시는 분들 연락 주세요...
+  3. 🔭 여기 뭐라고 써야 될지... (수정 중)
   
   	
   [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)<br><br>
   [![Jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
   
   
