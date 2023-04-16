@@ -24,8 +24,8 @@
   3. 🔭 포켓몬고 좋아하시는 분들 연락 주세요...
   
   	
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/깃허브아이디/github-readme-stats)<br><br>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
   [![Jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
   
   
