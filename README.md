@@ -19,6 +19,10 @@
 
 <br>
   
+  1. 🌱 Backend Engineer를 꿈꾸는 중...
+  2. 💬 JAVA, Python 위주로 공부 중...
+  3. 🔭 포켓몬고 좋아하시는 분들 연락 주세요...
+  
 </div>
   
 - 🔭 I’m currently working on ... 여기 오시는분들 이거 아직 다 안꾸민겁니다
