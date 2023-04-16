@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"><br>
 
-
+<br>
   
 - 🔭 I’m currently working on ... 여기 오시는분들 이거 아직 다 안꾸민겁니다
 - 🌱 I’m currently learning ...
