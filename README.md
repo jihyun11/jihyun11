@@ -1,14 +1,14 @@
 <div align="center">
 
 
-### :icecream: SNS :icecream:
+### ✨:icecream: SNS :icecream:✨
   
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFF9"/></a>
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFF9"/></a> <br>
 
   
   
-### :custard: Stack :custard:
+### 🚀:custard: Stack :custard:🚀
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
