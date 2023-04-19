@@ -1,7 +1,7 @@
 <div align="center">
 
 
-### -ˋˏ ෆ⃛ SNS ෆ⃛ ˎˊ-
+### :icecream: SNS :icecream:
   
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFF9"/></a>
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFF9"/></a> <br>
