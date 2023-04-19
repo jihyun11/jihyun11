@@ -21,7 +21,7 @@
   
   1. 🌱 Backend Engineer를 꿈꾸는 중...
   2. 💬 JAVA, Python 위주로 공부 중...
-  3. 🔭 여기 뭐라고 써야 될지... (수정 중)
+  3. 🔭 [T1 Gumayusi FanSite](52.79.32.80), [엔터프라이즈 서버 관리 페이지](3.34.200.145)
   
   	
   [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
