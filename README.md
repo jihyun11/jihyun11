@@ -21,12 +21,12 @@
   
   1. 🌱 Backend Engineer를 꿈꾸는 중...
   2. 💬 JAVA, Python 위주로 공부 중...
-  3. 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](https://3.34.200.145)
+  3. 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](http://3.34.200.145/report.html)
   
   	
   [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)<br><br>
-  [![Jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
+  
   
   
 </div>
@@ -37,6 +37,7 @@
 **jihyun11/jihyun11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11&layout=Demo&theme=tokyonight)
 ![jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11&show_icons=true&theme=merko)
+[![Jihyun11's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)
 
 
 Here are some ideas to get you started:
