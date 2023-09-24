@@ -19,11 +19,11 @@
 
 <br>
 저의 깃허브에 오신 것을 환영합니다.👋
-🌱 Backend Engineer를 꿈꾸는 중..
-🔭 자바, 스프링, Python 위주로 공부 중...
-🤔 최근에는 자바스크립트, 메타버스, NFT 등에 관심이 있습니다.
+🌱 Backend Engineer를 꿈꾸는 중... <br>
+🔭 자바, 스프링 위주로 공부 중... <br>
+🤔 최근에는 알고리즘, Python에 관심이 있습니다. <br>
 <!-- 💬 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](http://3.34.200.145/report.html) -->
-📫 연락처: 372491@naver.com
+📫 연락처: 372491@naver.com <br>
   	
   [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)<br><br>
