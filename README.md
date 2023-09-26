@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 
 
 ### ✨:icecream: SNS :icecream:✨
@@ -25,7 +25,7 @@
 <!-- 💬 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](http://3.34.200.145/report.html) -->
 📫 연락처: 372491@naver.com <br>
   	
- <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br> -->
+ <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br> --> <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)<br><br>
   
   
