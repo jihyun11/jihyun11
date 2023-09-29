@@ -29,7 +29,6 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"><br>
 
 <br>
-저의 깃허브에 오신 것을 환영합니다.👋 <br>
 🌱 Backend Engineer를 꿈꾸는 중... <br>
 🔭 자바, 스프링 위주로 공부 중... <br>
 🤔 최근에는 알고리즘, 자료구조에 관심 가지는 중... <br>
