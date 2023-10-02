@@ -1,14 +1,14 @@
 <!-- <div align="center"> -->
 
 
-### 🍦 SNS
+### 🍦 SNS 🍦
   
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFF9"/></a>
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFF9"/></a> <br>
 
   
   
-### 🍳 Stack
+### 🍳 Stack 🍳
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
