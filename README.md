@@ -1,14 +1,14 @@
 <!-- <div align="center"> -->
 
 
-### 🍦 SNS 🍦
+### 🍦 SNS 
   
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFF9"/></a>
 <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFF9"/></a> <br>
 
   
   
-### 🍳 Stack 🍳
+### 🍳 Stack 
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px;">
@@ -30,8 +30,8 @@
 
 <br>
 🌱 Backend Engineer를 꿈꾸는 중... <br>
-🔭 자바, 스프링 위주로 공부 중... <br>
-🤔 최근에는 알고리즘, 자료구조에 관심 가지는 중... <br>
+🔭 자바, 스프링부트 위주로 공부 중... <br>
+🤔 최근에는 자바스크립트, 알고리즘에 관심 가지는 중... <br>
 <!-- 💬 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](http://3.34.200.145/report.html) -->
 ☎️ 연락처: 372491@naver.com <br>
   	
