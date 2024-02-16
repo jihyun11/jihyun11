@@ -33,7 +33,7 @@
 🔭 자바, 스프링부트 위주로 공부 중... <br>
 🤔 최근에는 자바스크립트, 알고리즘에 관심 가지는 중... <br>
 <!-- 💬 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](http://3.34.200.145/report.html) -->
-☎️ 연락처: 372491@naver.com <br>
+💬 372491@naver.com <br>
   	
  <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jihyun11&row=1)](https://github.com/ryo-ma/github-profile-trophy)<br><br> --> <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihyun11)](https://github.com/jihyun11/github-readme-stats)<br><br>
