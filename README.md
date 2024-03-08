@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"><br>
 
 <br>
-🌱 _Backend Engineer를 꿈꾸는 중_ <br>
+🌱 *Backend Engineer를 꿈꾸는 중* <br>
 🔭 스프링부트 위주로 공부 중... <br>
 🤔 최근에는 자바스크립트, 알고리즘에 관심 가지는 중... <br>
 <!-- 💬 🔭 [T1 Gumayusi 팬사이트](52.79.32.80), [엔터프라이즈 서버 관리 페이지](http://3.34.200.145/report.html) -->
