@@ -43,8 +43,7 @@
   💬 나의 연락처 ...
 </summary>
 <br>
-  <br>
-  <p>$\rm{372491@naver.com}$</p>
+  📫 372491@naver.com
   <br>
   <a href="https://blog.naver.com/372491" target="_blank"><img src="https://img.shields.io/badge/BLOG-03C75A?style=for-the-badge&logo=naver&logoColor=FFFFF9"/></a>
 </details>
