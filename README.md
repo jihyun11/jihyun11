@@ -19,7 +19,7 @@
 
 <details>
 <summary>
-  👀 내가 지금 배우는 ... 
+  👀 내가 지금 배우는 。。。
 </summary>
    <br>
   
@@ -30,7 +30,7 @@
 
 <details>
 <summary>
-  🔥 배우고 싶은 ...
+  🔥 배우고 싶은 。。。
 </summary>
    <br>
     
@@ -40,7 +40,7 @@
 
 <details>
 <summary>
-  💬 나의 연락처 ...
+  💬 나의 연락처 。。。
 </summary>
 <br>
   📫 372491@naver.com
