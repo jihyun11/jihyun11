@@ -4,7 +4,7 @@
 ### 🫠 안녕하세요 
 <details>
 <summary>
-  🥢 나의 스택 ... 
+  🥢 나의 스택 。。。
 </summary>
    <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
