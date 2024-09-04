@@ -1,7 +1,7 @@
 <!-- <div align="center"> -->
 
 
-### 🫠 안녕하세요 
+### 🐤 안녕하세요 
 <details>
 <summary>
   🥢 나의 스택 。。。
@@ -35,7 +35,7 @@
    <br>
     
   
-![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 </details>
 
 <details>
