@@ -3,7 +3,7 @@ jihyun11@aws:~$ kubectl get engineer jihyun11 -o yaml
 ```
 
 ```yaml
-apiVersion: bubaum.dev/v1
+apiVersion: jihyun.dev/v1
 kind: Engineer
 metadata:
   name: jihyun11
