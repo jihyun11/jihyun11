@@ -23,15 +23,15 @@
     <text x="41" y="314"><tspan fill="#79c0ff">interests</tspan><tspan fill="#8b949e">:</tspan></text>
     <text x="58" y="336"><tspan fill="#8b949e">-&#160;</tspan><tspan fill="#a5d6ff">kubernetes</tspan></text>
     <text x="58" y="358"><tspan fill="#8b949e">-&#160;</tspan><tspan fill="#a5d6ff">database</tspan></text>
-    <text x="58" y="358"><tspan fill="#8b949e">-&#160;</tspan><tspan fill="#a5d6ff">kotlin</tspan></text>
-    <text x="24" y="380"><tspan fill="#79c0ff">status</tspan><tspan fill="#8b949e">:</tspan></text>
-    <text x="41" y="402"><tspan fill="#79c0ff">phase</tspan><tspan fill="#8b949e">:&#160;</tspan><tspan fill="#a5d6ff">Running</tspan></text>
-    <text x="41" y="424"><tspan fill="#79c0ff">message</tspan><tspan fill="#8b949e">:&#160;</tspan><tspan fill="#a5d6ff">"커피 좋아 인간입니다~!"</tspan></text>
+    <text x="58" y="380"><tspan fill="#8b949e">-&#160;</tspan><tspan fill="#a5d6ff">kotlin</tspan></text>
+    <text x="24" y="402"><tspan fill="#79c0ff">status</tspan><tspan fill="#8b949e">:</tspan></text>
+    <text x="41" y="424"><tspan fill="#79c0ff">phase</tspan><tspan fill="#8b949e">:&#160;</tspan><tspan fill="#a5d6ff">Running</tspan></text>
+    <text x="41" y="446"><tspan fill="#79c0ff">message</tspan><tspan fill="#8b949e">:&#160;</tspan><tspan fill="#a5d6ff">"커피 좋아 인간입니다~!"</tspan></text>
 
-    <text x="24" y="478"><tspan fill="#7ee787">jihyun11@aws</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan></text>
+    <text x="24" y="500"><tspan fill="#7ee787">jihyun11@aws</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#79c0ff">~</tspan><tspan fill="#8b949e">$</tspan></text>
   </g>
 
-  <rect x="152" y="465" width="9" height="17" fill="#e6edf3">
+  <rect x="152" y="487" width="9" height="17" fill="#e6edf3">
     <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
